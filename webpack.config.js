@@ -69,6 +69,6 @@ module.exports = {
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
     new webpack.NamedModulesPlugin(),
-    new ExtractTextPlugin("public/css/style.css"),
+    new ExtractTextPlugin("css/style.css"),
   ],
 };
