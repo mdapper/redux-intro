@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Intro to Redux with React, Webpack, Babel and CSS Modules",
   "main": "index.js",
+  "repository": "https://github.com/mdapper/redux-intro.git",
   "scripts": {
     "start": "./node_modules/.bin/webpack-dev-server --inline --open"
   },
